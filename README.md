@@ -1,7 +1,7 @@
 ## Google Docs clone
-
 Build a Google Docs clone using React, Material UI, and Firebase.we can edit a document in real time. This means that if two people are working on the same document, their progress will be reflected in both instances.
-
+Look like this:
+![google-docs-clone](https://user-images.githubusercontent.com/98678475/168263734-9629cde1-014a-4131-a053-2cd1719f2725.png)
 In the project directory, you can run:
 
 #### `npm start`
